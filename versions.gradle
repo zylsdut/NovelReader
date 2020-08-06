@@ -2,7 +2,7 @@ ext.deps = [:]
 
 // 版本号
 def versions = [:]
-versions.gradle = '3.6.1'
+versions.gradle = '3.5.3'
 versions.android = '28.0.0'
 versions.glide = '3.7.0'
 versions.rxjava2 = '2.2.19'
